@@ -1,0 +1,14 @@
+D:\.repos\frequency_analysis\bin\Debug\net8.0\frequency_analysis.exe
+D:\.repos\frequency_analysis\bin\Debug\net8.0\frequency_analysis.deps.json
+D:\.repos\frequency_analysis\bin\Debug\net8.0\frequency_analysis.runtimeconfig.json
+D:\.repos\frequency_analysis\bin\Debug\net8.0\frequency_analysis.dll
+D:\.repos\frequency_analysis\bin\Debug\net8.0\frequency_analysis.pdb
+D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.AssemblyInfoInputs.cache
+D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.AssemblyInfo.cs
+D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.csproj.CoreCompileInputs.cache
+D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.dll
+D:\.repos\frequency_analysis\obj\Debug\net8.0\refint\frequency_analysis.dll
+D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.pdb
+D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.genruntimeconfig.cache
+D:\.repos\frequency_analysis\obj\Debug\net8.0\ref\frequency_analysis.dll
