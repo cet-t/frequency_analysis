@@ -12,3 +12,4 @@ D:\.repos\frequency_analysis\obj\Debug\net8.0\refint\frequency_analysis.dll
 D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.pdb
 D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.genruntimeconfig.cache
 D:\.repos\frequency_analysis\obj\Debug\net8.0\ref\frequency_analysis.dll
+D:\.repos\frequency_analysis\obj\Debug\net8.0\frequency_analysis.sourcelink.json

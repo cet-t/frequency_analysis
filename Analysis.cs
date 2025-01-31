@@ -1,8 +1,10 @@
 ﻿using System.Reflection.PortableExecutable;
+using System.Text.RegularExpressions;
 
 public class Analysis
 {
-    private static char[] chars = "1234567890()[]{}!?@#$%^&*(=-+_~`/\"';: \t\n™’‘”“".ToCharArray();
+    private static string pattern = "[^0-9a-z,.]"; // "\\W";
+    private static Regex re = new(pattern);
 
     public static Task<(string, int)>? Read(string path)
     {
@@ -21,10 +23,7 @@ public class Analysis
             {
                 var line = await reader.ReadLineAsync();
                 line = line?.Trim().ToLower();
-                foreach (var c in chars)
-                {
-                    line = line?.Replace(c.ToString(), string.Empty);
-                }
+                line = re.Replace(line ?? string.Empty, string.Empty);
                 count += line?.Length ?? 0;
                 text += line;
             }
