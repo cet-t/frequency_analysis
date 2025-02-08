@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("frequency_analysis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06ff1686325ec97018c19670727011bc2eff4b11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e155438f514054e4a7e351c3cc4f58a0ec50088")]
 [assembly: System.Reflection.AssemblyProductAttribute("frequency_analysis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("frequency_analysis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
